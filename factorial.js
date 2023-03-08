@@ -7,6 +7,6 @@ function factorial(number) {
     return result;
 }
 
-// var mynumber = 4;
-var total = factorial(4);
+var myNumber = 4;
+var total = factorial(myNumber);
 console.log(total);
